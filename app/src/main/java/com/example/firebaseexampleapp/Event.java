@@ -54,7 +54,8 @@ public class Event implements Parcelable
     /**
      * This is the regular constructor used in the traditional sense
      * We use this one when we do not know the unique Firebase key yet for the Event
-     * @param eventName
+     * @param +
+     * eventName
      * @param eventDate
      * @param year
      * @param month
